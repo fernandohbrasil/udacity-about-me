@@ -1,4 +1,4 @@
-# Layouts - AboutMe app
+# udacity-About-Me
 
 This is the first toy app for lesson 2 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
@@ -21,4 +21,4 @@ This app demonstrates the following views and techniques:
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen0.png) ![Screenshot2](screenshots/screen1.png) ![Screenshot3](screenshots/screen2.png)
+![Screenshot1](screenshots/about-me1.png) ![Screenshot2](screenshots/about-me2.png) ![Screenshot3](screenshots/about-me3.png)
