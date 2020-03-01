@@ -21,4 +21,4 @@ This app demonstrates the following views and techniques:
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen0.png) ![Screenshot1](screenshots/screen1.png) ![Screenshot1](screenshots/screen2.png)
+![Screenshot1](screenshots/screen0.png) ![Screenshot2](screenshots/screen1.png) ![Screenshot3](screenshots/screen2.png)
