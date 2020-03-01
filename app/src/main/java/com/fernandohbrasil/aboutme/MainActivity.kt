@@ -11,10 +11,12 @@ import androidx.databinding.DataBindingUtil
 import com.fernandohbrasil.aboutme.databinding.ActivityMainBinding
 import com.fernandohbrasil.aboutme.model.Name
 
+private const val NAME = "James Marshall Hendrix"
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-    private val name: Name = Name(getString(R.string.name))
+    private val name: Name = Name(NAME)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
